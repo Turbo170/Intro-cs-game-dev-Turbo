@@ -1,12 +1,11 @@
+#variables to equal name, age, fav game
 name = "Alejandro Rodriguez"
 age = 21
 favoriteGame = "Roblox"
 
-txt = f"My name is {name}."
-print(txt)
+print(f"My name is {name}.")
 
-txt = f"I am {age} years old."
-print(txt)
+print(f"I am {age} years old.")
 
-txt = f"My favorite game is {favoriteGame}."
-print(txt)
+print(f"My favorite game is {favoriteGame}.")
+#printing a sentence while including variables to finish said sentence.
