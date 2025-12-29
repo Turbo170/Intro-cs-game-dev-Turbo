@@ -52,12 +52,13 @@ python text_adventure.py
 
 Briefly describe your game:
 
-- What is the setting?
-- What choices does the player make?
-- What determines a win or loss?
+- What is the setting? 
+- What choices does the player make? 
+- What determines a win or loss? 
 
 (Write 3–5 sentences.)
 
+The game is based on one punch man. The two choices the player can make are; to throw a punch or to leave the monster alone. The first option is the win because you do not want to leave the monster to kill civilians.
 ---
 
 ## Known Issues or Limitations
@@ -67,6 +68,7 @@ List any bugs, missing features, or things you would improve if you had more tim
 If there are none, write:  
 `None`
 
+I was thinking of putting a bit more dialog and Wish I could have made more options that give more story.
 ---
 
 ## Reflection
@@ -78,4 +80,6 @@ Answer the following:
 
 (2–4 sentences total.)
 
+The most challening part of this project for me was functions. I cant fully understand how they work yet but still got it to work while looking at w3.
+I get the structure of how to build and make it work but don't really understand what the code In it means. If i were to do it on my own, id probably forget.
 ---
