@@ -6,3 +6,7 @@ if (option) == 1.:
     print(f"You throw a punch, instantly killing it.\nYou Win!")
 elif option == 2.:
     print(f"You leave the monster confused and they continue with their rampage.\n You Lose.")
+
+def end_game()
+    print("The end.")
+end_game
