@@ -17,6 +17,7 @@ time.sleep(2)
 while PlayerHealth > 0 and EnemyHealth > 0:
     input("\nPress Enter to attack")
 
+    #the attack damage would be random from 1-32 and then subtracted from the enemys health.
     AttackDamage = random.randint(1, 32)
     EnemyHealth -= AttackDamage
 
@@ -24,8 +25,10 @@ while PlayerHealth > 0 and EnemyHealth > 0:
     Attack = random.choice(move) 
     print(f"\nYou {Attack} and has done {AttackDamage} damage to the opponent.")
     time.sleep(2)
+    
     print(f"\nYour Health: {PlayerHealth} | Opponent's Health: {EnemyHealth}")
 
+    #if statement to win
     if EnemyHealth <= 0:
         print("You have defeated your opponent.\nYOU WIN!")
         break
@@ -35,6 +38,7 @@ while PlayerHealth > 0 and EnemyHealth > 0:
     print("\nThe opponent is preparing to attack...")
     time.sleep(4)
 
+    #the attack damage would be random from 1-32 and then subtracted from the enemys health.
     EnemyAttackDamage = random.randint(1, 32)
     PlayerHealth -= EnemyAttackDamage
     print(f"\nThe opponent {Attack} and has done {EnemyAttackDamage} damage to you.")
