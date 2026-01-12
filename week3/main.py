@@ -34,13 +34,13 @@ print("Fight!\n")
 #a while loop that ends after checking the win or lose condition and deals the damage of both fighters
 while Player["Health"] >= 0 and Enemy["Health"] >= 0:
 
-        input("Press Eneter to throw a punch")
-        deal_damage(Player,Enemy)
-        if win_or_lose_condition():
+    input("Press Eneter to throw a punch")
+    deal_damage(Player,Enemy)
+    if win_or_lose_condition():
             break
 
-        print(f"{Enemy["Name"]}, throws a punch as well!\n")
-        time.sleep(2)
-        deal_damage(Enemy,Player)
-        if win_or_lose_condition():
+    print(f"{Enemy["Name"]}, throws a punch as well!\n")
+    time.sleep(2)
+    deal_damage(Enemy,Player)
+    if win_or_lose_condition():
             break
