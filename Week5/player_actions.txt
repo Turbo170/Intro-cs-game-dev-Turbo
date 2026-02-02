@@ -1,0 +1,14 @@
+Choose one game idea you might want to build later.
+
+List the player’s possible actions
+
+Move
+Jump
+Dodge/Dash
+Punch
+Parry
+Block
+Clash
+Grab
+Carry
+excecute

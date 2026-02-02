@@ -1,0 +1,17 @@
+Choose one existing game (video game, board game, or mobile game).
+
+Write a short response answering:
+
+What does the player do repeatedly?
+What is the main goal?
+What causes the player to lose?
+Why is the loop engaging?
+
+Arcane odessey. There are a lot of things the player can de repeatedly like cooking, fishing, bounty hunting, diving, etc.
+But the main goal/ repeatedly actions the player does, follow the story quest, level up to max level, get the best armor, 
+and finalize a build to then create another build or "100%" one. A player mostly loses from npcs attackingthem, or 
+attending duels with players. If you count losing as "dying" there are other things like drowning in water or dying to a tornado.
+The loop is engaging because its made to keep the player constantly look for something that gives them interest. 
+The loop also gives the player a reward every time you finish the loop. An Example of this is levels, a player wants levels?
+Then they can do the story or look around for npc quests. Once finishing the quest, you get the levels you wanted with some money.
+So Player looks for quest, finishes said quest, is given reward of exp and money.
